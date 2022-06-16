@@ -145,6 +145,10 @@ video {
   #about {
     text-align: center;
   }
+  
+  .card-text {
+    text-align: left;
+  }
 
   video {
     width: 80%;
