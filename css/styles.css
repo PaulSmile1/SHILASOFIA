@@ -151,9 +151,9 @@ video {
   }
 
   video {
-    width: 80%;
+    width: 100%;
     margin-left: 0;
-    position: static;
+    text-align: center;
   }
 
   .name {
@@ -171,15 +171,14 @@ video {
   }
 
   .name {
-    font-size: 3.5rem;
+    font-size: 3rem;
   }
 
-  video {
-    width: 100%;
-  }
-  
   .order {
+    height: 80px;
     width: 100%;
+    line-height: 60px; 
+
   }
 
   #about {
