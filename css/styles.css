@@ -138,19 +138,6 @@ video {
 
 
 @media (max-width: 991px) {
-
-  #title {
-    text-align: center;
-  }
-
-  .name {
-    text-align: left;
-  }
-
-  .explain {
-    text-align: left;
-  }
-
   #about {
     text-align: center;
   }
@@ -179,12 +166,32 @@ video {
 }
 
 @media (max-width: 615px) {
+  .first-container {
+    padding: 3% 1%;
+  }
+
+  .name {
+    font-size: 3rem;
+  }
 
   video {
     width: 100%;
   }
 
-  .name {
-    font-size: 2.5rem;
+  #about {
+    padding: 3% 1%;
+  }
+
+  .carousel {
+    padding: 3% 1%;
+  }
+
+  #pricing {
+    padding: 3% 1%;
+  }
+
+  #cta {
+    padding: 3% 1%;
+
   }
 }
