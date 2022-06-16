@@ -162,15 +162,40 @@ video {
 }
 
 @media (max-width: 615px) {
-  body {
-    padding: 1% 3%;
+  .first-container {
+    padding: 3%;
   }
-  
+
+  #about {
+    padding: 3%;
+  }
+
   video {
     width: 100%;
   }
-  
+
   .name {
     font-size: 3.5rem;
+  }
+
+  .carousel {
+    padding: 3%;
+  }
+
+  .testimonial-img {
+    width: 80%;
+  }
+
+  #pricing {
+    padding: 3%;
+  }
+
+  .card-praice {
+    padding: 3%;
+  }
+
+  #cta {
+    padding: 3%;
+
   }
 }
