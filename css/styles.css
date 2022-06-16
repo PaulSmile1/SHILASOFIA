@@ -177,6 +177,10 @@ video {
   video {
     width: 100%;
   }
+  
+  .order {
+    width: 100%;
+  }
 
   #about {
     padding: 3% 1%;
