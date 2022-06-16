@@ -1,0 +1,168 @@
+.first-container {
+  padding: 3% 15%;
+}
+
+.navbar {
+  padding-bottom: 4.5rem;
+}
+
+.logo-image {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.menu {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #6F7C51;
+  font-size: 1.2rem;
+  padding: 0 12px;
+}
+
+.name {
+  font-family: 'Noto Serif', serif;
+  font-size: 4.73rem;
+  line-height: 1.5;
+  color: #6F7C51;
+}
+
+.explain {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #6F7C51;
+}
+
+.order {
+  margin: 5% 5% 5% 0;
+}
+
+video {
+  width: 70%;
+  margin-left: 7rem;
+  padding-top: 5%;
+}
+
+#about {
+  padding: 10% 15%;
+}
+
+.card-body {
+  background-color: #6F7C51;
+  padding: 8% 7%;
+}
+
+.img {
+  width: 90%;
+  padding-bottom: 7%;
+}
+
+.card-title{
+  font-family: 'Noto Serif', serif;
+  color: #fff;
+}
+
+.card-text {
+  color: #fff;
+  padding: 3% 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 1.1rem;
+}
+
+#testimonials {
+  text-align: center;
+}
+
+.carousel {
+  padding: 3% 15%;
+}
+
+.testimonial-text {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #6F7C51;
+  font-size: 1.7rem;
+}
+
+.testimonial-img {
+  width: 60%;
+}
+
+#pricing {
+  padding: 7% 15% 3%;
+}
+
+.praice {
+  font-family: 'Noto Serif', serif;
+  color: #6F7C51;
+  padding: 3% 0 0;
+}
+
+.card-header {
+  background-color: #6F7C51;
+  font-family: 'Noto Serif', serif;
+  color: #fff;
+  padding-bottom: 5%;
+}
+
+.card-praice {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #6F7C51;
+  padding: 3% 5%;
+}
+
+.eco-card {
+  margin-bottom: 5%;
+}
+
+#cta {
+  font-family: 'Noto Serif', serif;
+  color: #6F7C51;
+  font-size: 1.3rem;
+  padding: 3% 15%;
+  text-align: center;
+}
+
+
+#footer {
+  background-color: #6F7C51;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #fff;
+  text-align: center;
+}
+
+.finish-text {
+  padding: 2%;
+  margin-bottom: 0;
+}
+
+.social-icon {
+  margin: auto 20px;
+}
+
+
+@media (max-width: 991px) {
+  #title {
+    text-align: center;
+  }
+
+  #about {
+    text-align: center;
+  }
+
+  video {
+    width: 80%;
+    margin-left: 0;
+    position: static;
+  }
+
+  .name {
+    font-size: 4rem;
+  }
+
+  .social-icon {
+    margin: auto 3%;
+  }
+}
+
+@media (max-width: 615px) {
+  .name {
+    font-size: 3.5rem;
+  }
+}
