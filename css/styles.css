@@ -145,7 +145,11 @@ video {
   #about {
     text-align: center;
   }
-  
+
+  .card-title{
+    text-align: left;
+  }
+
   .card-text {
     text-align: left;
   }
@@ -166,13 +170,6 @@ video {
 }
 
 @media (max-width: 615px) {
-  .first-container {
-    padding: 3%;
-  }
-
-  #about {
-    padding: 3%;
-  }
 
   video {
     width: 100%;
@@ -180,26 +177,5 @@ video {
 
   .name {
     font-size: 3.5rem;
-  }
-
-  .carousel {
-    padding: 3%;
-  }
-
-  .testimonial-img {
-    width: 80%;
-  }
-
-  #pricing {
-    padding: 3%;
-  }
-
-  .card-praice {
-    padding: 3%;
-  }
-
-  #cta {
-    padding: 3%;
-
   }
 }
