@@ -138,10 +138,6 @@ video {
 
 
 @media (max-width: 991px) {
-  #title {
-    text-align: center;
-  }
-
   #about {
     text-align: center;
   }
@@ -176,6 +172,6 @@ video {
   }
 
   .name {
-    font-size: 3.5rem;
+    font-size: 2rem;
   }
 }
