@@ -139,8 +139,16 @@ video {
 
 @media (max-width: 991px) {
 
-  .order {
+  #title {
     text-align: center;
+  }
+
+  .name {
+    text-align: left;
+  }
+
+  .explain {
+    text-align: left;
   }
 
   #about {
