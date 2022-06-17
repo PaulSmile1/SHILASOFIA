@@ -163,6 +163,10 @@ video {
   .social-icon {
     margin: auto 3%;
   }
+  
+  .praice {
+    padding: 3%;
+  }
 }
 
 @media (max-width: 615px) {
